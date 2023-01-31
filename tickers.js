@@ -53,4 +53,7 @@ module.exports = [
     'WMT',
     'XOM',
     'ZM'
+    'G'
+    'WCN'
+    'PB'
 ]
